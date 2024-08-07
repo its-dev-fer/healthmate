@@ -1,0 +1,7 @@
+{
+  "name": "healthmate-clinics",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
